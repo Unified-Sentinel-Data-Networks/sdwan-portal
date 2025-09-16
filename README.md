@@ -3,6 +3,8 @@
 This is a starter fullstack project (Django + React) for interview exercises.
 
 ## Setup Instructions
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/unified-sentinel-data-networks/sdwan-portal-starter)
+
 
 ### Backend
 ```bash
@@ -21,3 +23,5 @@ npm run dev
 ```
 
 Visit http://localhost:5173 to view the app.
+
+
